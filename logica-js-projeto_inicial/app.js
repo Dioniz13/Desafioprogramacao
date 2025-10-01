@@ -1,12 +1,9 @@
-alert("Boas vindas ao nosso site!");
-let nome = prompt("Qual o seu nome?");
-let idade = prompt("Qual a sua idade?");
-alert("Olá " + nome + ", você tem " + idade + " anos.");
-console.log("Nome do usuário: " + nome);
-console.log("Idade do usuário: " + idade);
+alert('Boas vindas ao jogo do número secreto');
+let numeroSecreto = 5;
+let chute = prompt('Escolha um número entre 1 e 10');
 
-if (idade < 18) {
-    alert("Você é menor de idade.");
-} else {
-    alert("Você pode tirar sua habilitação.");
+if (chute == numeroSecreto) {
+    console.log('Isso ai! Você descobriu o número secreto (5)');
+}else {
+    console.log('Que pena! Tente novamente');
 }
