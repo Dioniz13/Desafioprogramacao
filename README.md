@@ -21,13 +21,12 @@ O **Jogo do Número Secreto** é um projeto simples desenvolvido para praticar l
 - **JavaScript** - Lógica do jogo e interatividade
 
 ## 📁 Estrutura do Projeto
-```
-numero-secreto/
-├── index.html      # Página principal do jogo
-├── style.css       # Estilos e design
-├── script.js       # Lógica do jogo
-└── README.md       # Documentação do projeto
-```
+
+**numero-secreto/**
+- `index.html` - Página principal do jogo
+- `style.css` - Estilos e design  
+- `script.js` - Lógica do jogo
+- `README.md` - Documentação do projeto
 
 ## 🛠️ Funcionalidades
 
