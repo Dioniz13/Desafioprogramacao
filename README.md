@@ -23,10 +23,10 @@ O **Jogo do Número Secreto** é um projeto simples desenvolvido para praticar l
 ## 📁 Estrutura do Projeto
 
 numero-secreto/
-├── index.html # Página principal do jogo
-├── style.css # Estilos e design
-├── script.js # Lógica do jogo
-└── README.md # Este arquivo
+├── index.html      # Página principal do jogo
+├── style.css       # Estilos e design
+├── script.js       # Lógica do jogo
+└── README.md       # Documentação do projeto
 
 
 ## 🛠️ Funcionalidades
